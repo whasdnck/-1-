@@ -9,6 +9,6 @@
 ## 자바 fxml 키오스크 만들기
 ## 변수 선언
 ![화면 캡처 2023-06-20 142151](https://github.com/whasdnck/-1-/assets/127116197/60f35071-0e4a-4d26-b8b3-8d9e538bffa3)
-## 버튼 풀 코딩
+## 버튼 액션 넣기
 ![ads](https://github.com/whasdnck/-1-/assets/127116197/0730c6d2-6e09-4b31-9ce5-67da40cd26a9)
 ![qqqqq](https://github.com/whasdnck/-1-/assets/127116197/8d70919c-9667-4574-834b-d0336593f5be)
